@@ -2,7 +2,7 @@
 
 Matplotlib Graphs in discussion:
 
-1. Line Plot
+1. Linear Plot
 2. Scatter Plot
 3. Bar Plot
 4. Stem Plot
