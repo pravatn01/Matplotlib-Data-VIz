@@ -2,12 +2,12 @@
 
 Matplotlib Graphs in discussion:
 
-1. Linear Plot
-2. Scatter Plot
 3. Bar Plot
+2. Scatter Plot
+6. Hist Plot
+1. Linear Plot
 4. Stem Plot
 5. Step Plot
-6. Hist Plot
 7. Box Plot
 8. Pie Plot
 9. Fill_Between Plot
