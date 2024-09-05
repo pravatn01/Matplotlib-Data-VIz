@@ -7,6 +7,7 @@ Matplotlib Graphs in discussion:
 6. Hist Plot
 8. Pie Plot
 4. Stem Plot
+4. Stack Plot
 1. Linear Plot
 5. Step Plot
 7. Box Plot
