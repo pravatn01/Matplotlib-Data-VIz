@@ -10,5 +10,4 @@ Matplotlib Graphs in discussion:
 6. Box Plot
 7. Stack Plot
 8. Step Plot
-9. Fill_Between Plot
-10. Linear Plot
+9. Linear Plot with Fill Between 
