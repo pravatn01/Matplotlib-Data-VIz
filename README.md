@@ -10,4 +10,6 @@ Matplotlib Graphs in discussion:
 6. Box Plot
 7. Stack Plot
 8. Step Plot
-9. Linear Plot with Fill Between 
+9. Linear Plot with Fill Between
+10. Using Subplot and Savefig
+11. Using xticks, xlim, axis and annotation functions
